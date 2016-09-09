@@ -1,0 +1,1 @@
+# comparing-between-sequence-parallel-in-image-processing
